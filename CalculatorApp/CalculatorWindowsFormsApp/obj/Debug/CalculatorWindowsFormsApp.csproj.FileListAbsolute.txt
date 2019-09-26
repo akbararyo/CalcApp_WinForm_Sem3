@@ -8,3 +8,6 @@ D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug
 D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
 D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
 D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
+D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorMachine.dll
+D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorMachine.pdb
+D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CopyComplete

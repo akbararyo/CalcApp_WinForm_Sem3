@@ -110,7 +110,9 @@
             "Penjumlahan",
             "Pengurangan",
             "Perkalian",
-            "Pembagian"});
+            "Pembagian",
+            "Pangkat",
+            "Modulo"});
             this.comboBox.Location = new System.Drawing.Point(385, 42);
             this.comboBox.Name = "comboBox";
             this.comboBox.Size = new System.Drawing.Size(121, 21);

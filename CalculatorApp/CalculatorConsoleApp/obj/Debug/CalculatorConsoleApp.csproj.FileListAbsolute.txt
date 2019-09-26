@@ -5,3 +5,6 @@ D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorConsoleApp\bin\Debug\Calc
 D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
 D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
 D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.dll
+D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.pdb
+D:\18.11.2314\#1 CalculatorApp\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete
